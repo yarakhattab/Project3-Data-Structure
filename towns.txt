@@ -1,0 +1,13 @@
+Ram: Ramalla: 500000: 567: no
+Ramallah: Einareek: 4000: 400: no
+Nablus: Asira: 8000: 350: yes
+AlQuds: Qat: 3000: 300: no
+AlQuds: Hezma: 5000: 550: yes
+AlQuds: Qatanna: 3000: 300: no
+AlQuds: Qatannadd: 3000: 300: no
+Ramallah: Deraa: 8050: 350: yes
+Ramallah: Derbbb: 8050: 350: yes
+AlQuds: Tarata: 3000: 300: no
+Ramallah: Derbhhh: 8050: 350: yes
+Ramallah: Derttt: 8050: 350: yes
+Ramallah: Deruuu: 8050: 350: yes

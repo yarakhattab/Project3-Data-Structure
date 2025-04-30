@@ -1,0 +1,14 @@
+Nablus:Asira:8000:350:yes
+AlQuds:Hezma:5000:550:yes
+AlQuds:Qatanna:3000:300:no
+Jenin:Yabad:12000:200:yes
+Ramallah:Der:8050:350:yes
+Ramallah:Deraa:8050:350:yes
+Ramallah:Derttt:8050:350:yes
+Ramallah:Derbbb:8050:350:yes
+Ramallah:Deruuu:8050:350:yes
+Ramallah:Derbhhh:8050:350:yes
+AlQuds:Qatannadd:3000:300:no
+AlQuds:Tarata:3000:300:no
+AlQuds:Qat:3000:300:no
+

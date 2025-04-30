@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1735913622 source:c:\users\yara\onedrive\desktop\pro3test\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
